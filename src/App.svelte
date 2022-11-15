@@ -1,7 +1,7 @@
 <script>
 	import CardList from "./cards.svelte";
 	import Card from "./lib/components/card.svelte";
-  import { onMount } from "svelte";
+  	import { onMount } from "svelte";
 
 	let showcase, basics, holos, galaxies, radiant, basicGallery, 
 			vee, veeUltra, veeAlt, veeMax, veeMaxAlt, veeStar, 
